@@ -1,1 +1,1 @@
-I have my personal work flow and diagram reprentations like flow diagram to undertand things better using Eraser
+Personal workflow architectures and process diagrams powered by Eraser.io. A 'diagram-as-code' repository mapping out complex systems, decision logic, and automated workflows for consistent project execution.
